@@ -2,7 +2,7 @@ import streamlit as st
 from joblib import load  
 from numpy import array  
 # Load the trained model
-model = load("./resources/placement-model.pkl")
+model = load("model.pkl")
 
 
 st.set_page_config(page_title="Placement Package Predictor", page_icon="🎓", layout="centered")
