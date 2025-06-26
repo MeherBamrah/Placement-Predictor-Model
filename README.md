@@ -36,6 +36,7 @@ This repository contains the code, data, and analysis for predicting campus plac
 
 ---
 
+
 ![image](https://github.com/user-attachments/assets/5e79d22a-183f-4fc1-a8ca-511af551f7ee)
 
 
@@ -72,6 +73,5 @@ This repository contains the code, data, and analysis for predicting campus plac
 - Dataset sourced from open educational data repositories.
 
 ---
-
 
 
